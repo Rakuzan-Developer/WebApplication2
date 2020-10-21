@@ -24,7 +24,6 @@ namespace WebApplication2
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-
             }
 
             app.UseRouting();
